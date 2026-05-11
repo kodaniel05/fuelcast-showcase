@@ -1,0 +1,41 @@
+# OS and editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+
+# Private implementation and generated outputs
+src/
+dashboard/
+data/
+models/
+logs/
+*.db
+*.sqlite
+*.sqlite3
+*.joblib
+*.pkl
+*.parquet
+*.csv
+*.json
+
+# Dependency and build folders
+node_modules/
+.next/
+dist/
+build/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Keep placeholder files
+!.gitkeep
