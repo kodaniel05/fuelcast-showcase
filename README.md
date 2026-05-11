@@ -1,4 +1,5 @@
 # FuelCast Showcase
+![Dashboard Home](images/screenshots/dashboard-home.png)
 
 FuelCast is a daily energy intelligence and forecasting system for U.S. gasoline prices, combining public energy data, time-series modeling, AI-assisted explanations, and a polished analytics dashboard.
 
@@ -47,43 +48,7 @@ Public fuel-price data is available, but it is spread across separate APIs and u
 
 ## Screenshots
 
-Add screenshots from the private app to `images/screenshots/` using the filenames below.
 
-![Dashboard Home](images/screenshots/dashboard-home.png)
-
-Caption: Full dashboard overview showing national KPIs, refresh status, forecast cards, map, and key analytics panels.
-
-![Forecast Cards](images/screenshots/forecast-cards.png)
-
-Caption: Multi-horizon forecast cards for next week, two weeks ahead, and four weeks ahead, including direction and expected change.
-
-![US State Map](images/screenshots/us-state-map.png)
-
-Caption: Interactive U.S. choropleth map showing state-level gasoline prices or forecast-adjusted price changes.
-
-![State Rankings](images/screenshots/state-rankings.png)
-
-Caption: Searchable and sortable state ranking table for current prices, changes, and selected forecast horizon.
-
-![AI Analyst Takeaway](images/screenshots/ai-analyst-takeaway.png)
-
-Caption: Grounded forecast explanation panel that summarizes model output, uncertainty, and market context.
-
-![Model Metrics](images/screenshots/model-metrics.png)
-
-Caption: Model accuracy view comparing forecast horizons, selected models, and baseline performance.
-
-![Pipeline Health](images/screenshots/pipeline-health.png)
-
-Caption: Refresh status, data freshness, validation results, source availability, and latest successful run metadata.
-
-![Drivers And Signals](images/screenshots/drivers-and-signals.png)
-
-Caption: Market and energy context panel showing crude oil, ETF signals, EIA coverage, and source metadata.
-
-![Top Movers](images/screenshots/top-movers.png)
-
-Caption: Largest state-level daily, weekly, and monthly price increases or decreases.
 
 ## Feature Walkthrough
 
